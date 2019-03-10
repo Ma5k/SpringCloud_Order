@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "girl",
+      "type": "com.mask.order.config.GirlConfig",
+      "sourceType": "com.mask.order.config.GirlConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "girl.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mask.order.config.GirlConfig"
+    },
+    {
+      "name": "girl.name",
+      "type": "java.lang.String",
+      "sourceType": "com.mask.order.config.GirlConfig"
+    }
+  ],
+  "hints": []
+}
